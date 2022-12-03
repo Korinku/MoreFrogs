@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["SSS", "SES", "SSS"],
+  "key": {
+    "S": {
+      "item": "mofr:defunto"
+    },
+    "E": {
+      "item": "minecraft:frog_spawn_egg"
+    }
+  },
+  "result": {
+    "item": "mofr:op_frog_spawn_egg",
+    "count": 1
+  }
+}

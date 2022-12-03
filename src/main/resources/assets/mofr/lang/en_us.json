@@ -1,0 +1,14 @@
+{
+  "entity.mofr.apple_frog": "Sapo das Maçãs de Ouro",
+  "item.mofr.apple_frog_spawn_egg": "Ovo do Sapo das Maçãs de Ouro",
+  "entity.mofr.diamond_frog": "Sapo de Diamante",
+  "item.mofr.diamond_frog_spawn_egg": "Ovo do Sapo de Diamante",
+  "entity.mofr.blaze_frog": "Sapo de Blaze",
+  "item.mofr.blaze_frog_spawn_egg": "Ovo do Sapo de Blaze",
+  "entity.mofr.op_frog": "Sapo Todo Poderoso do Senhor",
+  "item.mofr.op_frog_spawn_egg": "Ovo do Sapo Todo Poderoso do Senhor",
+
+  "item.mofr.defunto": "Defunto",
+
+  "itemGroup.mofr.custom_group": "More Frogs"
+}

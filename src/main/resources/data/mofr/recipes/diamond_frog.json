@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["SSS", "SES", "SSS"],
+  "key": {
+    "S": {
+      "item": "minecraft:diamond"
+    },
+    "E": {
+      "item": "minecraft:frog_spawn_egg"
+    }
+  },
+  "result": {
+    "item": "mofr:diamond_frog_spawn_egg",
+    "count": 1
+  }
+}

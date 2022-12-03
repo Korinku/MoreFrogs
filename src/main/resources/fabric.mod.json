@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "mofr",
+  "version": "${version}",
+
+  "name": "More Frogs",
+  "description": "",
+  "authors": ["Korinku"],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/mofr/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["me.korinku.mofr.MoreFrogs"],
+    "client": ["me.korinku.mofr.client.MoreFrogsClient"]
+  },
+  "mixins": ["mofr.mixins.json"],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
